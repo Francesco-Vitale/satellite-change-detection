@@ -5,6 +5,10 @@ between two Sentinel-2 scenes and shows it on a map: STAC catalog query
 → NDVI computation → thresholded change mask → PostgreSQL → React +
 MapLibre frontend.
 
+## Screenshot
+
+![Screenshot](Screenshot.png)
+
 ## What it does
 
 1. Queries a public STAC catalog (Microsoft Planetary Computer) for two
